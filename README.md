@@ -1,6 +1,9 @@
 HTTP Server With Multi-Threading and Logging
+
 By Nicholas Henderson
+
 Basic Info
+
 This program runs a basic HTTP server which supports multi-threading and logging. This was an assignment made for CSE 130 in November, 2019. Please look inside for a sample of my coding practices. The makefile was provided by instructors, but the rest of the files are my own work.
 
 Files:
