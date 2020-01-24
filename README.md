@@ -1,4 +1,4 @@
-HTTP Server With Multi-Threading and Logging
+HTTP Server With Multi-Threading Patching and Logging
 
 By Nicholas Henderson
 
